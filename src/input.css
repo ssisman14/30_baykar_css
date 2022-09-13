@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital@0;1&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Inter';
+}
+
+@layer components {
+    .nav-item {
+        @apply text-18 text-white font-['Inter'] font-medium
+    }
+    .heading{
+        @apply font-['Inter'] font-bold text-white text-150
+    }
+    .heading-second {
+        @apply pl-104 -mt-55
+    }
+    .sub-text{
+        @apply text-gray font-normal text-24
+    }
+    .button-text{
+        @apply  text-18 font-medium
+    }
+    .sectionTwo-title{
+        @apply text-white  font-bold text-48 capitalize leading-58
+    }
+    .sectionTwo-desc{
+        @apply  font-normal text-18 leading-30 text-gray
+    }
+    .sectionTwo-footer-count{
+        @apply  text-white font-bold text-48 leading-58
+    }
+    .sectionTwo-footer-desc{
+        @apply  font-normal  text-24 leading-24 align-middle text-gray
+    }
+    .sectionTree-subTitle{
+        @apply  font-bold text-24 leading-7 text-white
+    }
+    .sectionTree-desc{
+        @apply text-gray font-normal text-18 leading-8
+    }
+}
+
+.section3-bg-min-w{
+    min-width: 576px
+}
