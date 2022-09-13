@@ -9,12 +9,17 @@ module.exports = {
         '58': '3.625rem'
       }
     },
+    borderRadius: {
+      'lg': '4rem',
+      'full': '9999px',
+    },
     colors:{
       'main': '#0A142F',
       'white': '#fff',
       "gray": '#E0E5F3',
       'yellow': '#FFC93E',
-      'metalic': '#353F5B'
+      'metalic': '#353F5B',
+      'card': '#353F5B',
       
     },
     fontFamily: {
@@ -38,7 +43,9 @@ module.exports = {
       '438': '27.375rem',
       '475': '29.688rem',
       '515': '32.188rem',
+      '522': '32.625rem',
       '539': '33.688rem',
+      '555': '34.6875rem',
       '576': '36rem',
       '630': '39.375rem',
       '729': '45.563rem',

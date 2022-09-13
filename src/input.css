@@ -40,7 +40,10 @@
         @apply  font-bold text-24 leading-7 text-white
     }
     .sectionTree-desc{
-        @apply text-gray font-normal text-18 leading-8
+        @apply text-gray  text-18 leading-8 font-medium leading-8
+    }
+    .sectionFour-card-title{
+        @apply text-white font-normal text-24 
     }
 }
 

@@ -630,10 +630,17 @@ video {
 
 .sectionTree-desc{
   font-size: 1.125rem;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 2rem;
   --tw-text-opacity: 1;
   color: rgb(224 229 243 / var(--tw-text-opacity));
+}
+
+.sectionFour-card-title{
+  font-size: 1.5rem;
+  font-weight: 400;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .absolute{
@@ -740,8 +747,32 @@ video {
   margin-bottom: 2.5rem;
 }
 
+.ml-150{
+  margin-left: 9.375rem;
+}
+
+.mr-150{
+  margin-right: 9.375rem;
+}
+
+.mb-32{
+  margin-bottom: 2rem;
+}
+
+.mt-50{
+  margin-top: 3.125rem;
+}
+
+.mt-75{
+  margin-top: 4.688rem;
+}
+
 .flex{
   display: flex;
+}
+
+.table{
+  display: table;
 }
 
 .h-120{
@@ -770,6 +801,10 @@ video {
 
 .h-full{
   height: 100%;
+}
+
+.h-522{
+  height: 32.625rem;
 }
 
 .w-full{
@@ -806,6 +841,18 @@ video {
 
 .w-576{
   width: 36rem;
+}
+
+.w-342{
+  width: 21.375rem;
+}
+
+.w-555{
+  width: 34.6875rem;
+}
+
+.w-475{
+  width: 29.688rem;
 }
 
 .transform{
@@ -856,6 +903,30 @@ video {
   border-radius: 9999px;
 }
 
+.rounded-tl-lg{
+  border-top-left-radius: 4rem;
+}
+
+.rounded-bl-lg{
+  border-bottom-left-radius: 4rem;
+}
+
+.rounded-tr-lg{
+  border-top-right-radius: 4rem;
+}
+
+.rounded-br-lg{
+  border-bottom-right-radius: 4rem;
+}
+
+.border-2{
+  border-width: 2px;
+}
+
+.border{
+  border-width: 1px;
+}
+
 .bg-main{
   --tw-bg-opacity: 1;
   background-color: rgb(10 20 47 / var(--tw-bg-opacity));
@@ -876,6 +947,11 @@ video {
   background-color: rgb(53 63 91 / var(--tw-bg-opacity));
 }
 
+.bg-card{
+  --tw-bg-opacity: 1;
+  background-color: rgb(53 63 91 / var(--tw-bg-opacity));
+}
+
 .bg-opacity-50{
   --tw-bg-opacity: 0.5;
 }
@@ -888,9 +964,26 @@ video {
   padding-right: 9.375rem;
 }
 
+.pl-40{
+  padding-left: 2.5rem;
+}
+
+.pt-104{
+  padding-top: 6.5rem;
+}
+
+.align-middle{
+  vertical-align: middle;
+}
+
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-gray{
+  --tw-text-opacity: 1;
+  color: rgb(224 229 243 / var(--tw-text-opacity));
 }
 
 .filter{
