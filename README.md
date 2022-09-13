@@ -1,5 +1,14 @@
 # frontEnd
 
+#Not1:
+  Figma tasarımında 1. sayfadaki background elementlerin grouplaması tek ekran için yapılmış. w 1440'dan büyük ekranlar için 1. sayfada uyumsuzluk vardır.
+  1440 için hatasız olarak görüntülenmektedir.
+  
+ Not2:
+  Baykar ödev olarak yıllık izinde olduğum zaman ödev süremi başlatıyorsunz. 1 gün süre içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
+  
+  Saygılarımla
+
 
 #Ekran Resimleri
 
