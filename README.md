@@ -7,6 +7,8 @@
  Not2:
   Yıllık izinde olduğum zaman ödev süremi başlatıyorsunuz. izinden gelip kalan 1 gün içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
   
+ 
+  
   Saygılarımla
 
 
