@@ -5,7 +5,7 @@
   1440 için hatasız olarak görüntülenmektedir.
   
  Not2:
-  Yıllık izinde olduğum zaman ödev süremi başlatıyorsunuz. izinden gelip 1 gün süre içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
+  Yıllık izinde olduğum zaman ödev süremi başlatıyorsunuz. izinden gelip kalan 1 gün içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
   
   Saygılarımla
 
