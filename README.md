@@ -5,7 +5,7 @@
   1440 için hatasız olarak görüntülenmektedir.
   
  Not2:
-  Baykar ödev olarak yıllık izinde olduğum zaman ödev süremi başlatıyorsunz. 1 gün süre içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
+  Yıllık izinde olduğum zaman ödev süremi başlatıyorsunuz. izinden gelip 1 gün süre içerisinde mobil tasarımını yetiştirmem imkansızdır. Ek süre verirseniz mobil     tasarımını da yapabilirim.
   
   Saygılarımla
 
